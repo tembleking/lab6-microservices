@@ -52,4 +52,4 @@ by a PR so other fellow can try it.
 
 | NIA | User name | Repo | Improvement | Score |
 |-----|-----------|------|-------------|-------|
-|     |           |      |             |       |
+| 666151 | Fede Barcelona | [Report](https://github.com/tembleking/lab6-microservices/blob/work/report.md)     |             |       |
