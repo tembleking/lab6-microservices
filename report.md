@@ -1,7 +1,7 @@
 # Microservices with Spring
 
 In this report the Eureka service auto-discovery server is going to be demonstrated.
-Eureka allows the different services that make up a complete application to register themselves in a list, so that other services can send requests to obtain information, or order them to execute some task; more or less in the same way that the internal DNS of a Kubernetes cluster works, when a Service is created.
+Eureka allows the different services that make up a complete application to register themselves in a list, so that other services can send requests to obtain information, or order them to execute some task; more or less the same way how the internal DNS of a Kubernetes cluster works, when a [Service](https://kubernetes.io/docs/concepts/services-networking/service/) is created.
 
 ## Initial run of the services.
 
